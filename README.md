@@ -1,5 +1,3 @@
-# Crop_Yield_Predictor
-A Crop Yeild predictor which will work on the data and will predict the yield in tons/hector.
 # Crop Yield Detection Using Machine Learning
 
 This project predicts crop yield in **tons per hectare** using machine learning. It uses agricultural factors such as rainfall, temperature, soil type, and fertilizer usage to estimate production in advance.
